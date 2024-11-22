@@ -8,5 +8,6 @@ describe('template spec', () => {
     cy.log("changes from Test AGAIN");
     cy.log("changes from Test AGAIN 123");
     cy.log("changes from Test AGAIN 444");
+    cy.log("changes from Test NEW BRANCH AGAIN 444");
   })
 })
