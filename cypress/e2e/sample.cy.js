@@ -3,6 +3,7 @@ describe('template spec', () => {
     cy.visit('https://example.cypress.io');
     cy.log("hi hello VETRI")
     cy.log("hi im sathish");
-    cy.log("changes from ARUNACHALAM")
+    cy.log("changes from ARUNACHALAM");
+    cy.log("changes from Test");
   })
 })
